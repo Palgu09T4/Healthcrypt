@@ -1,7 +1,7 @@
 
-# 🏥 MediSecure
+# 🏥 AI-Based Securty for Healthcare Applications
 
-**MediSecure** is a full-stack web-based healthcare management system built using **Django** and **Bootstrap**, providing seamless coordination among patients, doctors, and lab technicians.
+**AI Based Security for Healthcare Applications** is a full-stack web-based healthcare management system built using **Django** and **Bootstrap**, providing seamless coordination among patients, doctors, and lab technicians.
 
 ## 🚀 Features
 
