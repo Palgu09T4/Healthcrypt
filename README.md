@@ -8,27 +8,27 @@ The system integrates cryptographic algorithms (AES, ECC, RSA) with machine lear
 
 Healthcare systems face increasing security risks due to:
 
-Transmission of sensitive data over unstable or low-resource networks
+* Transmission of sensitive data over unstable or low-resource networks
 
-High computational overhead of traditional encryption methods
+* High computational overhead of traditional encryption methods
 
-Inflexible static encryption schemes
+* Inflexible static encryption schemes
 
-Increased cyberattacks on IoT-enabled healthcare systems
+* Increased cyberattacks on IoT-enabled healthcare systems
 
 This project proposes an AI-powered adaptive encryption framework that ensures robust security while maintaining efficiency and responsiveness.
 
 ## Objectives
 
-Protect patient records and healthcare communications using AI-driven encryption
+* Protect patient records and healthcare communications using AI-driven encryption
 
-Ensure secure data storage and transmission across heterogeneous networks
+* Ensure secure data storage and transmission across heterogeneous networks
 
-Detect anomalies and suspicious activities using intelligent monitoring
+* Detect anomalies and suspicious activities using intelligent monitoring
 
-Dynamically adapt encryption algorithms and key strengths in real time
+* Dynamically adapt encryption algorithms and key strengths in real time
 
-Enable secure and tamper-proof cryptographic key exchange
+* Enable secure and tamper-proof cryptographic key exchange
 
 ## System Architecture
 User Roles and Access Control
@@ -130,27 +130,27 @@ Session blocking
 
 ## Applications
 
-Secure Remote Patient Monitoring systems
+* Secure Remote Patient Monitoring systems
 
-Protection of smart medical implants such as pacemakers and insulin pumps
+* Protection of smart medical implants such as pacemakers and insulin pumps
 
-Secure cloud-based Electronic Health Records
+* Secure cloud-based Electronic Health Records
 
-Emergency data transmission from smart ambulances
+* Emergency data transmission from smart ambulances
 
-Home healthcare IoT device security
+* Home healthcare IoT device security
 
-Smart hospital infrastructure protection
+* Smart hospital infrastructure protection
 
 ## Outcomes
 
-Improved confidentiality, integrity, and availability of healthcare data
+* Improved confidentiality, integrity, and availability of healthcare data
 
-Reduced computational overhead through adaptive encryption
+* Reduced computational overhead through adaptive encryption
 
-Real-time detection and mitigation of security threats
+* Real-time detection and mitigation of security threats
 
-Scalable and modular security architecture for future healthcare systems
+* Scalable and modular security architecture for future healthcare systems
 
 ### 💻 Frontend Experience
 - **Responsive Design**: Built with Bootstrap for a clean, mobile-friendly UI.
