@@ -33,44 +33,44 @@ This project proposes an AI-powered adaptive encryption framework that ensures r
 ## System Architecture
 User Roles and Access Control
 
-Doctor: Manage patients, upload prescriptions, request and view lab reports
+* Doctor: Manage patients, upload prescriptions, request and view lab reports
 
-Patient: Book appointments, view diagnoses and lab results
+* Patient: Book appointments, view diagnoses and lab results
 
-Lab Technician: Upload lab test results
+* Lab Technician: Upload lab test results
 
-Authentication and authorization ensure role-based dashboard access.
+* Authentication and authorization ensure role-based dashboard access.
 
 ## Secure Data Flow
 
-All sensitive data is encrypted before database storage
+* All sensitive data is encrypted before database storage
 
-Only authorized users can decrypt and access information
+* Only authorized users can decrypt and access information
 
-Digital signatures verify data integrity and authenticity
+* Digital signatures verify data integrity and authenticity
 
 ## Core Technologies and Algorithms
 **AES (Advanced Encryption Standard)**
 
-Symmetric encryption for securing data at rest
+* Symmetric encryption for securing data at rest
 
-Encrypts patient records, prescriptions, diagnoses, and lab reports
+* Encrypts patient records, prescriptions, diagnoses, and lab reports
 
-Ensures confidentiality and regulatory compliance
+* Ensures confidentiality and regulatory compliance
 
 **ECC(Elliptic Curve Cryptography)**
 
-Used for secure AES key exchange
+* Used for secure AES key exchange
 
-Enables digital signatures for integrity verification
+* Enables digital signatures for integrity verification
 
-Lightweight and suitable for IoT and mobile healthcare devices
+* Lightweight and suitable for IoT and mobile healthcare devices
 
 **RSA (Rivest–Shamir–Adleman)**
 
-Asymmetric encryption for secure key exchange and signatures
+* Asymmetric encryption for secure key exchange and signatures
 
-Provides authentication and non-repudiation
+* Provides authentication and non-repudiation
 
 ## AI-Powered Adaptive Encryption
 
@@ -78,23 +78,23 @@ Uses a Random Forest machine learning model to dynamically select encryption str
 
 Evaluates real-time parameters including:
 
-CPU usage
+* CPU usage
 
-File size
+* File size
 
-User role
+* User role
 
-Network latency and traffic
+* Network latency and traffic
 
-Anomaly score
+* Anomaly score
 
-Supported Encryption Modes
+* Supported Encryption Modes
 
-AES-128, AES-192, AES-256
+* AES-128, AES-192, AES-256
 
-Hybrid ECC + AES
+* Hybrid ECC + AES
 
-RSA-based encryption
+* RSA-based encryption
 
 Encryption strength automatically increases during high-risk or abnormal conditions.
 
@@ -108,25 +108,7 @@ One-Class SVM
 
 Random Forest
 
-Autoencoder
-
-Detection Capabilities
-
-Suspicious login attempts
-
-Abnormal encryption parameters
-
-Unusual CPU or network usage
-
-Invalid key lengths or tampered uploads
-
-Automated Responses
-
-Key rotation
-
-Stronger encryption enforcement
-
-Session blocking
+A
 
 ## Applications
 
